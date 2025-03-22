@@ -14,12 +14,12 @@ mkdir -p ~/.local/bin
 cp cheatsheet.sh ~/.local/bin/cheatsheet
 chmod +x ~/.local/bin/cheatsheet
 ```
-Bash:
+Bash shell:
 ```
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
-ZSH:
+ZSH shell:
 ```
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
@@ -31,4 +31,4 @@ You can see the usage with the `cheatsheet help` command.
 # Examples
 
 # Notes 
-Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew. You must consider a manual update of the tealdeer.
+Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew (Mac OS). You must consider a manual update of the tealdeer.
