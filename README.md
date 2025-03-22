@@ -11,7 +11,7 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 
 
 # Preconfiguration
-   bash or zsh on folder
+   You have to consider the .sh file inside the bash folder if you use bash viceversa if you use zsh.
 
 
 # Usage  
