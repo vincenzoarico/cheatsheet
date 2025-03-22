@@ -6,14 +6,13 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 
 
    ## Tealdeer
-   An advice for you is to enable auto-update local cache:<br/>
-   
+   Advice for you is to enable auto-update local cache:<br/>
    1. `tldr --seed-config` to create a basic config.
    2. `tldr --show-paths` to show your config file path and activate the auto-update option using nano/vim.
 
 
 # Preconfiguration
-   You have to consider the .sh file inside the bash folder if you use bash viceversa if you use zsh.
+   If you use bash, you must consider the .sh file inside the bash folder, and vice versa if you use zsh.
 
 
 # Usage  
@@ -24,5 +23,5 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 
 
 # Notes 
-   Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew. You must consider a manual update of tealdeer.
+   Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew. You must consider a manual update of the tealdeer.
   
