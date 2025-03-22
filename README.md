@@ -9,7 +9,21 @@ Advice for you is to enable auto-update local cache:
 2. `tldr --show-paths` to show your config file path and activate the auto-update option using nano/vim.
 
 # Preconfiguration
-If you use bash, you must consider the .sh file inside the bash folder, and vice versa if you use zsh.
+```
+mkdir -p ~/.local/bin
+cp cheatsheet.sh ~/.local/bin/cheatsheet
+chmod +x ~/.local/bin/cheatsheet
+```
+Bash:
+```
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+ZSH:
+```
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+```
 
 # Usage  
 You can see the usage with the `cheatsheet help` command.
