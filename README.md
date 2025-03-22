@@ -1,21 +1,22 @@
 # cheatsheet
-A personal terminal cheatsheet also with the contribution of tealdeer and cheat.sh
+A personal terminal cheatsheet also with the contribution of tealdeer and cheat.sh.
 
 
 # Prerequisites
-1. Tealdeer
+
+   ## Tealdeer
    
-   An advice for you is to enable auto-update:
-     1. tldr --seed-config
-     2. tldr --show-paths -> to show your config file path and activate the auto-update option using nano/vim
+      An advice for you is to enable auto-update:
+         **tldr --seed-config**
+         **tldr --show-paths** to show your config file path and activate the auto-update option using nano/vim.
   
-3. Preconfiguration
+# Preconfiguration
 
    bash or zsh on folder
 
-4. Usage
+# Usage
    
    You can see the usage with the 'cheatsheet help' command.
 
-7. Examples
+# Examples
   
