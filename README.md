@@ -1,4 +1,4 @@
-# cheatsheet
+# Cheatsheet
 A personal terminal cheatsheet also with the contribution of tealdeer and cheat.sh.
 
 
@@ -7,8 +7,8 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
    ## Tealdeer
    
       An advice for you is to enable auto-update:
-         **tldr --seed-config**
-         **tldr --show-paths** to show your config file path and activate the auto-update option using nano/vim.
+         `tldr --seed-config`
+         `tldr --show-paths` to show your config file path and activate the auto-update option using nano/vim.
   
 # Preconfiguration
 
