@@ -5,11 +5,9 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 # Prerequisites
 
    ## Tealdeer
-   An advice for you is to enable auto-update local cache:
-   
-      1.`tldr --seed-config` to create a basic config.
-      
-      2.`tldr --show-paths` to show your config file path and activate the auto-update option using nano/vim.
+   An advice for you is to enable auto-update local cache:\
+   1.`tldr --seed-config` to create a basic config.
+   2.`tldr --show-paths` to show your config file path and activate the auto-update option using nano/vim.
 
 
 # Preconfiguration
