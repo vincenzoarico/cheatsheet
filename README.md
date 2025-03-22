@@ -15,7 +15,7 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 
 4. Usage
    
-  You can see the usage with the 'cheatsheet help' command.
+   You can see the usage with the 'cheatsheet help' command.
 
-6. Examples
+7. Examples
   
