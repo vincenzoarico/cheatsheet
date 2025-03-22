@@ -19,4 +19,8 @@ A personal terminal cheatsheet also with the contribution of tealdeer and cheat.
 
 
 # Examples
+
+
+# Notes 
+   Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew. You must consider a manual update of tealdeer.
   
