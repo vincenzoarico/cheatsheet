@@ -29,6 +29,14 @@ source ~/.zshrc
 You can see the usage with the `cheatsheet help` command.
 
 # Examples
+```
+cheatsheet execute "docker compose"`
+cheatsheet add_command "docker compose" "docker compose up" "New command description"
+cheatsheet add_command "git add" "git add -A" "command"
+cheatsheet add_command "git add" "git add -f" "another command"
+cheatsheet print_command "git add"
+cheatsheet print_commands
+```
 
 # Notes 
 Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew (Mac OS). You must consider a manual update of the tealdeer.
