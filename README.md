@@ -30,7 +30,7 @@ You can see the usage with the `cheatsheet help` command.
 
 # Examples
 ```
-cheatsheet execute "docker compose"`
+cheatsheet execute "docker compose"
 cheatsheet add_command "docker compose" "docker compose up" "New command description"
 cheatsheet add_command "git add" "git add -A" "command"
 cheatsheet add_command "git add" "git add -f" "another command"
