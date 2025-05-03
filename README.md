@@ -6,7 +6,7 @@ A personal terminal cheatsheet, with the contribution of tealdeer and cheat.sh.
 ### Tealdeer
 Install it.
 
-MacOS (if you use Homebrew):
+MacOS install (if you use Homebrew):
 `brew install tealdeer`
 
 Advice for you is to enable auto-update local cache:
@@ -46,10 +46,10 @@ cheatsheet print_command "git add"
 cheatsheet print_commands
 ```
 
-All commands are easy to understand except `cheatsheet execute <family-cmd>`, which is used to print not only your added commands relative to that <family-cmd> but also the cheat.sh and the tealdeer execution for that <family-cmd>.
+All commands are easy to understand except `cheatsheet execute <family-cmd>`, which is used to print not only your added commands relative to that ***\<family-cmd\>*** but also the cheat.sh and the tealdeer execution for that ***\<family-cmd\>***.
 
 ### Storage location
-All your commands relative to a family command are stored at this dir path: `$HOME/.cheatsheet_commands/`. Inside this folder will be all <family-cmd>.txt files, where you will find all your added commands.
+All your commands are stored at this directory path: `$HOME/.cheatsheet_commands/`. Inside this folder will be all \<family-cmd\>.txt files, where you will find all your added commands.
 
 ## Notes 
 Never execute `cheatsheet update` to update tealdeer if you didn't install it with Homebrew (Mac OS). You must consider a manual update of the tealdeer.
